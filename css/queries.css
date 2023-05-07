@@ -1,0 +1,43 @@
+@media (max-width: 26em) {
+  .container {
+    max-width: 33rem;
+    margin: 8rem auto;
+  }
+
+  .testimonials {
+    grid-template-columns: 1fr;
+  }
+
+  .testimonial {
+    min-height: auto;
+    padding-bottom: 3.25rem;
+  }
+
+  .testimonial:nth-child(1),
+  .testimonial:nth-child(3),
+  .testimonial:nth-child(5) {
+    grid-column: auto;
+    grid-row: auto;
+  }
+
+  .testimonial:nth-child(3) {
+    grid-row: 5;
+    padding: 2.5rem 3.65rem 3.25rem 3.25rem;
+  }
+
+  .testimonial:nth-child(1) {
+    background-position: top right 2.2rem;
+    padding-right: 3.6rem;
+    padding-bottom: 3.25rem;
+  }
+
+  .testimonial:nth-child(1) .quote-full {
+    margin-right: 1.5rem;
+  }
+
+  .testimonial:nth-child(3) .quote-heading,
+  .testimonial:nth-child(4) .quote-heading,
+  .testimonial:nth-child(5) .quote-heading {
+    margin-bottom: 1.5rem;
+  }
+}
