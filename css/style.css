@@ -34,7 +34,7 @@ body {
 
 .testimonial {
   min-height: 26.6rem;
-  padding: 2.5rem 3.5rem 2.5rem 3.25rem;
+  padding: 2.5rem 3.3rem 2.5rem 3.25rem;
   border-radius: 7px;
 }
 
@@ -120,15 +120,15 @@ body {
 
 .testimonial--light .testimonial-name,
 .testimonial--light .quote-heading {
-  color: #19212e;
+  color: #48556a;
 }
 
 .testimonial--light .testimonial-verified {
-  color: #19212e80;
+  color: #48556a80;
 }
 
 .testimonial--light .quote-full {
-  color: #19212eb3;
+  color: #48556ab3;
 }
 
 .attribution {
