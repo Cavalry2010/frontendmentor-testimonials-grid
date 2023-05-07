@@ -47,7 +47,7 @@ body {
 
 .testimonial {
   min-height: 26.6rem;
-  padding: 2.5rem 3.3rem 2.5rem 3.25rem;
+  padding: 2.5rem 3rem 2.5rem 3.25rem;
   border-radius: 7px;
   box-shadow: 0 15px 30px 3px rgba(0, 0, 0, 0.075);
 }
@@ -74,6 +74,7 @@ body {
 .testimonial:nth-child(5) {
   grid-column: 2 / 4;
   background-color: #19212e;
+  padding: 2.5rem 3.5rem 2.5rem 3.25rem;
 }
 
 .testimonial-details {
