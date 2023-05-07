@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-with-flexbox-and-css-grid-x6UVLoEEvS)
 - Live Site URL: [Testimonials Grid](https://testimonials-grid-alejandro.netlify.app)
 
 ## My process
